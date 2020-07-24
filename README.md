@@ -10,6 +10,10 @@ This repository is for showing how Git and GitHub work
 
 5th change in the file.
 
+6th change in the file.
+
+7th change in the file.
+
 ## Purpose
 ##Deployment
 
